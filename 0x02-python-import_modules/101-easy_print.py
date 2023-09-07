@@ -1,1 +1,2 @@
-exec(chr(35) + 'pythoniscool')
+import builtins
+builtins.print("#pythoniscool")
